@@ -1,0 +1,258 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: IPAfont
+Upstream-Contact: https://www.ipa.go.jp
+Source: http://ossipedia.ipa.go.jp/ipafont/download.php (however, obsolete)
+
+Files: *
+Copyright: 2007-2009, Information-technology Promotion Agency, Japan.
+License: 一般利用者向けIPAフォント使用許諾契約書（エンド・ユーザ・ライセンス）
+ 独立行政法人情報処理推進機構（以下、「IPA」という。）は、「IPAフォント」
+ と題するデジタル・フォント・プログラム（以下、「許諾プログラム」という。
+ ）を提供するにあたり、この使用許諾契約（以下「本契約」という。）に同意い
+ ただくことを使用条件とします。許諾プログラムの提供を受けた者（IPAからの
+ 一次配布・他の利用者からの再配布を問わない。以下、「受領者」という。）が
+ 、受領した許諾プログラムをコンピュータ（１条に定義するところによる）にイ
+ ンストールした場合、本契約の内容に同意したものと見なします。
+ .
+ 第1条　用語の定義
+ 本契約において、次の各号に掲げる用語は、当該各号に定めるところによります。
+ 1.「派生プログラム」とは、許諾プログラムの一部または全部に、変更、デザイ
+ ンの加工その他の加除修正等を施したもの、フォント名などのフォント情報や組
+ 版に関する情報を含む一連のテーブルなどを変えたもの、またはフォントのアウ
+ トラインデータやビットマップデータの一部または全部を追加、修正、削除した
+ ものなどをいう。
+ 2.「独自プログラム」とは、許諾プログラムの一部または全部をプログラムのま
+ ま利用せず、許諾プログラムの一部または全部から文字情報を取り出し、または
+ 取り出された文字情報に改変等をなして新たに制作されたデジタル・フォント・
+ プログラムその他の二次的成果物をいう。
+ 3.「デジタル・コンテンツ」とは、デジタル・データ形式によってエンド・ユー
+ ザーに提供される制作物のことをいい、映像コンテンツ（ディスプレイ又は投影
+ 用スクリーン上に表示される、動画・静止画等の映像制作物および番組）および
+ 文字テキスト、画像、図形等を含んで構成された制作物を含む。
+ 4.「デジタル・ドキュメント・ファイル」とは、PDFファイルその他、各種ソフト
+ ウェアによって制作されたドキュメント・ファイルであって、当該ドキュメント
+ ・ファイルに使用されている文字について許諾プログラムの一部が埋め込まれた
+ （エンベッドされた）ものをいう。
+ 5.「変更」とは、フォントの骨格を変えることをいい、漢字の偏や旁を切り離し
+ て新たな文字（外字）を作成すること、文字の一部を変形して新たな文字を作成
+ することなどを含む。
+ 6.「デザインの加工」とは、フォントの骨格を変えることなく、フォントに対し
+ て表示効果を付加することや一定の変形を加えることをいい、アプリケーション
+ ・ソフトウェアにおける文字飾り（太字、斜体、影付け、下線、中抜き、浮き彫
+ りその他）や、文字変形などを含む。
+ 7.「コンピュータ｣とは、本契約においては、サーバを含む。
+ 8.「複製その他の利用」とは、複製、譲渡、頒布、貸与、公衆送信、上映をいう。
+ .
+ 第２条 使用許諾の付与
+ IPAは受領者に対し、本契約の条項に従い、すべての国で、許諾プログラムを使用
+ することを許諾します。ただし、許諾プログラムに存在する一切の権利はすべて
+ IPAが保有しています。本契約は、いかなる意味においても、IPAが保有する許諾
+ プログラムに関する一切の権利および、いかなる商標、商号、もしくはサービス
+ ・マークに関する権利をも受領者に移転するものではありません。
+ 1．受領者は本契約に定める条件に従い、許諾プログラムを記憶媒体にインストー
+ ルし、コンピュータで使用することができます。
+ 2．受領者はコンピュータにインストールされた許諾プログラムをそのまま、印刷
+ 物およびデジタル・コンテンツにおいて、文字テキスト表現等として使用するこ
+ とができます。
+ 3．受領者はコンピュータにインストールされた許諾プログラムに対して、他の編
+ 集ソフトウェア・プログラム等を利用してデザインの加工および変更を行ったう
+ えで、これを印刷物およびデジタル・コンテンツにおいて、文字テキスト表現等
+ として使用することができます。
+ 4．受領者は本条2項または3項の定めに従い作成した印刷物およびデジタル・コン
+ テンツにつき、その商用・非商用の別、および放送、通信、各種記録メディアな
+ どの媒体の形式を問わず、複製その他の利用をすることができます。
+ 5．受領者は、デジタル・コンテンツにおいて使用した文字（サブセット文字）に
+ 限り、本契約において許諾されている範囲内で埋め込んで（エンベットして）デ
+ ジタル・ドキュメント・ファイルとし、かかるデジタル・ドキュメント・ファイ
+ ルの複製その他の利用をすることができます。この場合には、かかるデジタル・
+ ドキュメント・ファイルの受領者に対しては、本契約に従うことを求める必要は
+ ありません。
+ 6．受領者は、許諾プログラムをそのままの状態で、「IPAフォント」の名称で、
+ 変更、デザインの加工その他の改変を加えることなく、商用・非商用を問わず第
+ 三者への再配布をすることができます。ただし、その場合には、受領者は、本契
+ 約の写しを許諾プログラムに添付して、第三者に再配布しなければなりません。
+ 7．受領者は、個人利用および研究用途として、派生プログラムまたは独自プログ
+ ラムを作成することができます。
+ .
+ 第３条　制限
+ 前条により付与された使用許諾は、以下の制限に服します。
+ 1．受領者は、商用・非商用を問わず、派生プログラムまたは独自プログラムを
+ IPAの許諾無しに再配布することはできません。
+ 2．受領者がIPAフォントを前条6項に基づき再配布する場合には、受領者は「IPA
+ フォント」という名称を変更することはできません。
+ 3．受領者が作成した派生プログラムまたは独自プログラムについて、IPAは一切
+ の責任を負いません。
+ 4．許諾プログラム、派生プログラムまたは独自プログラムの使用によって受領者
+ に生じた一切の損害（修復コスト、データの紛失による障害、使用、利益、好意、
+ 財産の損害、その他の特別損害、間接損害もしくは拡大損害等）について、IPAは
+ 一切の責任を負いません。
+ 5．許諾プログラム、派生プログラムまたは独自プログラムの使用に関して、IPA
+ は技術的な質問や問い合わせ等のいかなるユーザ・サポートおよびいかなる保証
+ も行いません。
+ .
+ 第４条　契約の終了
+ 1．本契約の有効期間は、本契約締結時から、受領者が許諾プログラムを全てのコ
+ ンピュータからアンインストールするまでとします。
+ 2． 前項の定めにかかわらず、受領者が本契約に定める各条項に違反したときは、
+ 本契約は、何らの催告を要することなく、自動的に終了し、受領者はそれ以後、
+ 許諾プログラム、派生プログラムおよび独自プログラムの使用を一切中止するもの
+ とします。また、受領者は、本契約に定める各条項の違反によってIPAが被った損
+ 害を賠償する義務を負うものとします。
+ .
+ 第５条　準拠法
+ 1．本契約は、将来変更されることがあります。その場合には、受領者は、許諾プ
+ ログラムの複製その他の利用または再配布にあたり、本契約または変更後の契約
+ のいずれかを選択することができます。その他、上記に記載されていない条項に
+ 関しては著作権法および関連法規に従うものとします。
+ 2．本契約は、日本法に基づき解釈されます。
+ .
+ IPA Font End User License (translated version, unofficial)
+ .
+ The Information-technology Promotion Agency (hereinafter "IPA") permits
+ use of the digital font program entitled "IPA Font" (hereinafter "the
+ Licensed Program") only under the conditions of this license (hereinafter
+ "the License" or "this License"). By installing the Licensed Program on
+ a Computer (as defined in Section 1), each recipient of the Licensed
+ Program (hereinafter "Recipient") indicates agreement with the terms of
+ the License.
+ .
+ Section 1: Definitions
+ .
+ The following terms shall each have the corresponding meanings listed
+ below when used in this License.
+ .
+ 1. A "Derivative Program" is the result of Modifications, Design
+ Alterations, or other addition to, removal from, or alteration of
+ any part or the entirety of the Licensed Program; changes to font
+ information such as the font name or tables including font layout
+ information; or addition, alteration, or removal of any or all
+ font outline or bitmap data.
+ .
+ 2. An "Independent Program" is a newly created digital font program
+ or other derivative work which is created not by using any part or
+ the entirety of the Licensed Program as is, but by extracting some
+ or all of the character data or by making alterations to that data.
+ .
+ 3. "Digital Media" refers to media in a digital data format
+ distributed to end users, and includes without limitation media
+ containing video data (video works or programs made from motion or
+ still images and displayed or projected), text, images, or
+ drawings.
+ .
+ 4. A "Digital Document File" is a PDF or other document file created
+ by software which includes part of the Licensed Program embedded
+ in the file.
+ .
+ 5. A "Modification" is a change to the structure of the font,
+ including without limitation the creation of new characters by
+ splitting off part of a Chinese character or by changing the shape
+ of part of a character.
+ .
+ 6. A "Design Alteration" is the addition of a display effect or a
+ limited change in shape which does not change the structure of
+ the font, including without limitation font effects used in
+ application software (bold, italic, shadow, underline, outline,
+ relief, etc.) and changes in character shape.
+ .
+ 7. The term "Computer" shall include servers for the purposes of this
+ License.
+ .
+ 8. "Copying and Other Use" means copying, transferring, distributing,
+ lending, transmitting to the public, and/or displaying to the
+ public.
+ .
+ Section 2: Usage Rights
+ .
+ IPA hereby grants Recipient the right to use the Licensed Program
+ worldwide under the terms of this License. However, IPA retains all
+ rights in the Licensed Software. This License is not to be construed
+ as granting Recipient any rights in the Licensed Program or any
+ trademarks, brand names, or service marks.
+ .
+ 1. Recipient may install the Licensed Program on storage media and
+ use it on any Computer under the terms of this License.
+ .
+ 2. Recipient may use the Licensed Program for text and other
+ expression in printed works and Digital Media.
+ .
+ 3. Recipient may use software programs or other methods to apply
+ Design Alterations and Modifications to the Licensed Program, then
+ used the result for text and other expression in printed works and
+ Digital Media.
+ .
+ 4. Recipient may make Copying and Other Use of the printed works or
+ Digital Media produced under paragraphs 2 and 3 above, regardless
+ of whether the work is commercial or whether it is used in
+ broadcast, communication, or other media or form.
+ .
+ 5. For any work of Digital Media, Recipient may embed the subset of
+ characters used in that work to create a Digital Document File
+ under the terms of this License, and may make Copying and Other
+ Use of that Digital Document File. Recipient is not required to
+ bind recipients of the Digital Document File to the terms of this
+ License.
+ .
+ 6. Recipient may distribute, whether commercially or otherwise, the
+ Licensed Program to a third party under the name "IPA Font",
+ provided that no Modifications, Design Alterations, or other
+ changes are made to the Licensed Program. However, Recipient must
+ also provide a copy of this License when distributing the Licensed
+ Program to a third party.
+ .
+ 7. Recipient may create Derivative Programs or Independent Programs
+ for personal use or research purposes.
+ .
+ Section 3: Restrictions
+ .
+ The usage rights granted in section 2 are subject to the following
+ restrictions.
+ .
+ 1. Recipient must not distribute Derivative Programs or Independent
+ Programs, whether commercially or otherwise, without the
+ permission of IPA.
+ .
+ 2. Recipient must not change the name "IPA Font" when distributing
+ the IPA Font under paragraph 6 of section 2.
+ .
+ 3. IPA carries no liability with respect to Derivative Programs or
+ Independent Programs created by Recipient.
+ .
+ 4. IPA carries no liability for damages suffered by Recipient due to
+ the Licensed Program, Derivative Programs, or Independent Programs,
+ including but not limited to liability for repair costs, data loss,
+ loss of use, profit, goodwill, or property, or other special,
+ indirect, or consequential damages.
+ .
+ 5. IPA makes no warranty and provides no technical or user support
+ for the use of the Licensed Program, Derivative Programs, or
+ Independent Programs.
+ .
+ Section 4: Termination
+ .
+ 1. This License comes into force upon execution, and shall terminate
+ when Recipient uninstalls all copies of the Licensed Program from
+ all Computers.
+ .
+ 2. Regardless of the previous paragraph, this License shall terminate
+ immediately and automatically upon violation of the License by
+ Recipient, and Recipient shall henceforth cease all use of the
+ Licensed Program, Derivative Programs, and Independent Programs.
+ Recipient shall be liable for any damage caused to IPA through
+ violation of the terms of this License.
+ .
+ Section 5: Governing Law
+ .
+ 1. This License may be changed from time to time. When this License
+ is changed, Recipient may choose between the previous and the new
+ version of the License when distributing the Licensed Program. All
+ matters not explicitly stated in this License shall be determined
+ in accordance with the Copyright Law and related laws.
+ .
+ 2. This License shall be interpreted according to the laws of Japan.
+ 
+Files: debian/*
+Copyright: 2008-2013, Hideki Yamane <henrich@debian.org>
+License: GPL-2
+ This software is distributed under the terms of the GNU General Public
+ License, version 2. On Debian GNU/Linux system you can find a copy of
+ this license in `/usr/share/common-licenses/GPL-2'.
