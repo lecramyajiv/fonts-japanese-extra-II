@@ -1,4 +1,8 @@
- 
+# Fonts Japanese extra II
+
+Collection of Japanese fonts for Slackware Linux.
+The fonts in this collection are:
+
 1. ipafont-jisx0208
     1. IPAX0208 Gothic
     2. IPAX0208P Gothic
