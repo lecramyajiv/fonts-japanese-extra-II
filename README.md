@@ -14,3 +14,6 @@ The fonts in this collection are:
 4. Ipamj-Mincho
 5. Yozfont new Kana font family
 6. Mplus Font Family
+    1. MPlus1
+    2. MPlus1 Code
+    3. MPlus2
